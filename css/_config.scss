@@ -1,24 +1,8 @@
 // Fonts
-// @font-face {
-//     font-family: 'agrandir_grand_heavy';
-//     src: url('../fonts/agrandir-grandheavy-webfont.woff2') format('woff2'),
-//          url('../fonts/agrandir-grandheavy-webfont.woff') format('woff');
-//     font-weight: normal;
-//     font-style: normal;
-// }
-
-// @font-face {
-//     font-family: 'agrandir_grand_light';
-//     src: url('../fonts/agrandir-grandlight-webfont.woff2') format('woff2'),
-//          url('../fonts/agrandir-grandlight-webfont.woff') format('woff');
-//     font-weight: normal;
-//     font-style: normal;
-// }
-
 // Variables
 $base-font: 'Space Mono', monospace;
-$secondary-font: 'agrandir_grand_heavy';
-// $heading-font-light: 'agrandir_grand_light';
+$secondary-font: 'Koulen', sans-serif;
+
 $light: #FFFFFF;
 $dark: #000000;
 $grey: rgba($dark, 0.1);
