@@ -118,6 +118,8 @@ table {
   border-radius: 16px;
   padding: 30px;
   box-sizing: border-box;
+  display: flex;
+  gap: 50px;
 }
 .modules .module.interface .set__one {
   display: flex;
@@ -150,7 +152,7 @@ table {
   font-family: "Space Mono", monospace;
   font-size: 18px;
   font-weight: 700;
-  border: 3px solid rgba(0, 0, 0, 0.7);
+  border: 3px solid rgba(0, 0, 0, 0.5);
   display: flex;
   align-items: center;
   justify-content: center;

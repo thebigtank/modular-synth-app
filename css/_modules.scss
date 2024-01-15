@@ -51,6 +51,8 @@
             border-radius: 16px;
             padding: 30px;
             box-sizing: border-box;
+            display: flex;
+            gap: 50px;
 
             .set__one {
                 display: flex;
@@ -87,7 +89,7 @@
                             font-family: $base-font;
                             font-size: 18px;
                             font-weight: 700;
-                            border: 3px solid rgba($color: $dark, $alpha: 0.7);
+                            border: 3px solid rgba($color: $dark, $alpha: 0.5);
                             display: flex;
                             align-items: center;
                             justify-content: center;
